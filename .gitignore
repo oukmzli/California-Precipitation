@@ -12,6 +12,9 @@ venv/
 *.venv
 env/
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
 # Operating system files
 .DS_Store
 Thumbs.db
